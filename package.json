@@ -1,0 +1,16 @@
+{
+  "name": "cypress-uitesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^4.10.0",
+    "lodash": "^4.17.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karthick Arun Subramanian",
+  "license": "ISC"
+}
